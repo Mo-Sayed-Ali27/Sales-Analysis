@@ -21,4 +21,13 @@ Sales Trend & Running Total Visualization
 Regional/Territory Breakdown
 
 Top 10 Best-Selling Products
+📌 Key Metrics Visualized
+Monthly Total Sales and Running Total
 
+Total Sales by Product Category and Subcategory
+
+Sales Distribution across Regions
+
+Top-Selling Products
+
+KPI cards for SubTotal, Freight, Tax, and TotalDue
