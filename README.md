@@ -31,3 +31,13 @@ Sales Distribution across Regions
 Top-Selling Products
 
 KPI cards for SubTotal, Freight, Tax, and TotalDue
+🛠️ Tools & Technologies
+Microsoft Excel
+
+Power Pivot
+
+Pivot Tables
+
+DAX (basic measures)
+
+Excel Charts & Slicers
