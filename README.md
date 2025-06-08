@@ -44,6 +44,15 @@ Excel Charts & Slicers
 
 💡 Key Learnings
 Hands-on practice in data modeling and schema design
+🔗 Use Case
+This project can be used as:
+
+A portfolio project to showcase Excel BI skills
+
+A starting point for more advanced Power BI conversion
+
+A practical exercise in handling sales data with Excel
+
 
 Building insightful dashboards with real business logic
 
