@@ -41,3 +41,13 @@ Pivot Tables
 DAX (basic measures)
 
 Excel Charts & Slicers
+
+💡 Key Learnings
+Hands-on practice in data modeling and schema design
+
+Building insightful dashboards with real business logic
+
+Using DAX to calculate aggregations and KPIs
+
+Creating interactive reports for end users
+
